@@ -79,9 +79,6 @@ npx expo start
 
 ---
 
-📸 Screenshots
-
-«Add your app screenshots here (optional but recommended)»
 
 ---
 
